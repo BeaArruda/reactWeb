@@ -1,4 +1,4 @@
-import './App.css'
+
 import Home from './componentes/home'
 import Menu from './componentes/menu'
 import Rodape from './componentes/rodape'
